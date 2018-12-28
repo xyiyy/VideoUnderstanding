@@ -1,6 +1,5 @@
 # Video Understanding
-> include recent works about video understanding or relevant before 2019.3 (ICCV2019 ddl)
-> also include some novel inspiring approaches about image processing
+> include recent works about video understanding or relevant novel inspiring image processing approaches before 2019.3 (ICCV2019 ddl)
 
 **[1]** Tran, Du, et al. "A Closer Look at Spatiotemporal Convolutions for Action Recognition." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_A_Closer_Look_CVPR_2018_paper.pdf)
 
